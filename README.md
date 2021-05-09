@@ -12,6 +12,7 @@ Tech Stack:
 - Node.js
 - TailwindCSS
 - Firebase Firestore
+- A little Material-UI
 
 This app provides functionality such as:
 
@@ -22,3 +23,5 @@ This app provides functionality such as:
 ### Things to be added to this project:
 - You!
 - Password recovery
+- Ability for users to see who follows them, and who they are following.
+- Profile photos
