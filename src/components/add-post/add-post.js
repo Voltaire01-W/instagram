@@ -75,9 +75,9 @@ function CreatePost({ user }) {
   };
 
   return (
-    <div className="rounded col-span-4 border bg-white border-gray-primary mb-5">
+    <div className="container col-span-2">
           {user ? (
-        <div className="imageUpload">
+        <div className="rounded col-span-4 border bg-white border-gray-primary mb-5">
           <div className="createAPost__Top">
             <p>Create a Post</p>
           </div>
@@ -89,7 +89,7 @@ function CreatePost({ user }) {
               name="create a post"
               rows="2"
               value={caption}
-              placeholder="Enter a caption..."
+              placeholder="Share where you've been or what you've been doing!"
               onChange={(e) => setCaption(e.target.value)}
             ></textarea>
             <div className="imagePreview">
@@ -137,7 +137,7 @@ function CreatePost({ user }) {
           style={{
             marginTop: "30px",
             display: "flex",
-            flexDirection: "row",
+            flexDirection: "column",
             justifyContent: "center",
             alignItems: "center",
           }}
