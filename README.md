@@ -1,7 +1,7 @@
 # Welcome to Instagram!
 
 ## Come join the world of social media, take pictures of your food and traveling adventures!
-[Instagram](https://instagram-mjkqydlsu-voltaire01-w.vercel.app/login)
+[Instagram](https://instagram-rodiq7hsr-voltaire01-w.vercel.app/)
 
 ### About the project:
 
